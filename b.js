@@ -1,1 +1,1 @@
-alert(1)
+window.location.href = "http://www.google.com"
